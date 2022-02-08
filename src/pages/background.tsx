@@ -1,6 +1,6 @@
-import Bg1 from "@/images/bg1.png"
-import Bg2 from "@/images/bg2.png"
-import Bg3 from "@/images/bg3.png"
+import Bg1 from "@/images/bg1.webp"
+import Bg2 from "@/images/bg2.webp"
+import Bg3 from "@/images/bg3.webp"
 import {Article, Image} from "@/widgets"
 
 const Background = () => {

@@ -5,11 +5,6 @@ const nextConfig = {
     images: {
         disableStaticImages: true
     },
-    i18n: {
-        locales: ["en-US", "zh-CN"],
-        defaultLocale: "en-US",
-        localeDetection: false
-    },
     compress: true,
     experimental: {
         workerThreads: true

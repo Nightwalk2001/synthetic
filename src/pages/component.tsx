@@ -1,7 +1,7 @@
-import Part1 from "@/images/part1.png"
-import Part2 from "@/images/part2.png"
-import Part3 from "@/images/part3.png"
-import Part4 from "@/images/part4.png"
+import Part1 from "@/images/part1.webp"
+import Part2 from "@/images/part2.webp"
+import Part3 from "@/images/part3.webp"
+import Part4 from "@/images/part4.webp"
 import {Article, Plasmid} from "@/widgets"
 
 const Component = () => {

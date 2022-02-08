@@ -1,7 +1,7 @@
-import D1 from "@/images/design1.png"
-import D2 from "@/images/design2.png"
-import D3 from "@/images/design3.png"
-import D4 from "@/images/design4.png"
+import D1 from "@/images/design1.webp"
+import D2 from "@/images/design2.webp"
+import D3 from "@/images/design3.webp"
+import D4 from "@/images/design4.webp"
 import {Article, Image} from "@/widgets"
 
 const Design = () => {

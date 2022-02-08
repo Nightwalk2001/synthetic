@@ -1,10 +1,10 @@
-import P1 from "@/images/proto1.png"
-import P2 from "@/images/proto2.png"
-import P3 from "@/images/proto3.png"
-import P4 from "@/images/proto4.png"
-import P5 from "@/images/proto5.png"
-import P6 from "@/images/proto6.png"
-import P7 from "@/images/proto7.png"
+import P1 from "@/images/proto1.webp"
+import P2 from "@/images/proto2.webp"
+import P3 from "@/images/proto3.webp"
+import P4 from "@/images/proto4.webp"
+import P5 from "@/images/proto5.webp"
+import P6 from "@/images/proto6.webp"
+import P7 from "@/images/proto7.webp"
 import {Article, Image} from "@/widgets"
 
 const Protocol = () => {
