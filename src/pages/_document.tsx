@@ -10,7 +10,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en" className="[--scroll-mt:9.875rem] lg:[--scroll-mt:6.3125rem]">
         <Head>
-          <meta name="description" content="王志威用于pre、paper、labs的网站"/>
+          <meta name="description" content="中山大学2022 合成生物学大赛队伍"/>
           <link rel="icon" href={"/favicon.svg"}/>
         </Head>
         <body
