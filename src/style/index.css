@@ -1,0 +1,28 @@
+@import "fonts.css";
+
+@import "@docsearch/css";
+@import "docsearch.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.root {
+    display: flex;
+    flex-flow: column;
+    min-width: 100%;
+    min-height: 100vh;
+}
+
+.main {
+    flex: 1;
+}
+
+body {
+    overflow-x: hidden;
+    overflow-y: overlay;
+}
+
+div::selection, h1::selection, p::selection, span::selection, text::selection, pre::selection {
+    background: #79ffe1;
+}
